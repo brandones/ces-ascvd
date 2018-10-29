@@ -1,0 +1,6 @@
+*.pyc
+env/
+Access/
+Input CSVs/
+Intermediates/
+Output/
